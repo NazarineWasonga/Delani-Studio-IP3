@@ -1,5 +1,5 @@
 /* Google fonts inport */
-@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Roboto:wght@100&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +10,6 @@
   height: 100vh;
   width: 100%;
   background-size: cover;
-  font-style: normal;
 }
 .delani1 {
   position: relative;
@@ -31,7 +30,7 @@
 .mytop,
 h1,
 p {
-  font-family: Lato;
+  font-family: 'Courgette', cursive;
 }
 .mytop {
   color: white;
@@ -53,7 +52,8 @@ p {
   top: 0;
   height: 60vh;
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Roboto', sans-serif;
+
 }
 .service1 > h3 {
   font-size: 8vw;
