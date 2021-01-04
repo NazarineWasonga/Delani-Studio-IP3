@@ -36,6 +36,7 @@ To get a local copy of the site:
 
 ## Bugs.
 The MailChimp API doesn't work properly.
+Screenshot does not work
 
 ## License
 
