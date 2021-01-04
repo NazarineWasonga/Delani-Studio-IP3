@@ -75,9 +75,11 @@ p {
   transform: translate(-50%, -50%);
 }
 /* What we do */
-.wedo {
+.wedo:hover {
   padding-top: 5vh;
   height: 50vh;
+  color:black;
+  background:rgb(77, 56, 42);
 }
 /* // what we do styling */
 .myrow {
