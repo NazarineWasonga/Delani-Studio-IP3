@@ -36,6 +36,6 @@ $(document).ready(function () {
 $(document).ready(function () {
     document.getElementById("form").addEventListener("submit", popUp);
     function popUp() {
-        alert("Thanks Your message has been received.");
+        alert("Thanks for the feedback.");
     }
 });
