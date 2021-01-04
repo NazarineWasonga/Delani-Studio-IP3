@@ -108,7 +108,7 @@ p {
 #name,
 #email,
 #textarea {
-  background: transparent;
+  background: rgb(238, 184, 84);
 }
 .contactme {
   height: 90vh;
