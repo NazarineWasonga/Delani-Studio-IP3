@@ -86,8 +86,11 @@ color: #202c2d;
   background:rgba(112, 96, 85, 0.932);
 }
 /* // what we do styling */
-.myrow {
+.myrow:hover {
   padding: 1rem;
+  font-family: 'Crimson Pro', serif;
+  font-size: 20px;
+  color: rgb(26, 163, 140);
 }
 /* portfolio styling */
 .port1 {
