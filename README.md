@@ -1,5 +1,5 @@
 # Delani-Studio-IP3
-[Check it out](https://github.com/NazarineWasonga/Delani-Studio-IP3)
+[Check it out](https://nazarinewasonga.github.io/Delani-Studio-IP3/)
  ## Description.
 Delani Studio is a site built to practice concepts learnt including JQuery, bootstrap, javascript and working with APIS's.
 
